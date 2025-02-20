@@ -43,7 +43,7 @@
         <p><h2>Project Description: </h2>With the massive volume of movies available across streaming platforms, users often face difficulty in selecting movies that match their tastes. Dytiger is a concise and easy-to-use movie rating system. You can not only express your brief opinions on it, but also write detailed movie reviews. At the same time, the system will recommend movies to you based on algorithms. In addition, you can discuss the exciting plot of the movie with other users in the discussion group and analyze the details of the movie together.</p>
 
         <div class="links">
-            <a href="https://youtube.com/demo-video" target="_blank">Watch Demo Video</a>
+            <a href="https://youtu.be/EGOLcJXhCLE" target="_blank">Watch Demo Video</a>
             <a href="https://github.com/ahanasomeegg/FYP-Dytiger" target="_blank">GitHub Repository</a>
         </div>
     </div>
